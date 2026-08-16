@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Twende Boda",
+    "slug": "twende-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.twende.boda",
+      "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"],
+      "config": {
+        "googleMaps": {
+          "apiKey": "YOUR_GOOGLE_MAPS_KEY"
+        }
+      }
+    }
+  }
+}
